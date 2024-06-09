@@ -1,0 +1,28 @@
+ Software Engineering
+ is the techniue of applying  engineering processed to the development of computer software or applications. The technics or principles  include the deisgns, development, maintenance, testing, and evaluation of programs or software , It encompasses a range of tasks, methodologies, tools, and techniques aimed at creating high-quality, reliable, and scalable software products.
+
+
+
+ Software Engineering: Encompasses the entire software development lifecycle (SDLC), including requirements analysis, design, implementation, testing, deployment, and maintenance. It involves a holistic approach to software creation while  Programming Primarily focuses on writing and debugging code to solve specific problems or perform specific tasks. It is a subset of the broader software engineering process. Software enginnering uses the frameworks  while  traditional programming is basically adhoc  approach.
+
+         Requirement Analysis: This is the process of understanding  the needs  of the users and documenting them. This involves interviewing users gathering requirements and systems functionality 
+        Design: Create the architecture and design of the software system. Develop high-level architectural designs, detailed design specifications, user interface designs, and data models.
+        Implementation (Coding): Write the actual code based on the design specifications of the users or clients 
+
+        Testing: This is a proces of verifying  that software meets users requirements and is free from bugs.There are  various levels of testing, including unit testing, integration testing, system testing, and acceptance testing.
+
+        Deployment:Releasing  the product or software to the client and setting it up to actual production  environment . Install the software, configure the system, and provide training and documentation to users.
+
+        Maintenance:It involves updating  and software improvements e to adapt to new requirements or fix issues.
+
+
+
+
+Agile model is iterative focused  on flexibility , collaboration and response to changes 
+
+
+
+Version control systems (VCS) are most important component in software development they aid managing the changes in the  source code over time. They enable  multiple developers to collaborate on a project, track changes, and revert to previous versions if necessary. VCS are critical for maintaining the integrity and history of codebases, facilitating team collaboration, and ensuring project continuity. Examples of the VCS include Git, Gitbuckect, SVN, Bazar
+
+
+A software project manager  is responsible for planning, executing, and overseeing software development projects from inception to completion. The role involves managing resources, timelines, budgets, and communication among stakeholders to ensure that projects are delivered on time, within scope, and to the desired quality standards
